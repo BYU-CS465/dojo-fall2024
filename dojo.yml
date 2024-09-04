@@ -1,0 +1,12 @@
+id: byu-cs465-fall2024
+
+name: BYU CS 465 - Fall 2024
+
+type: course
+
+modules:
+  - import:
+    dojo: welcome
+
+  - import:
+    dojo: "linux-luminarium"
